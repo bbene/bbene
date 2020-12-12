@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 Pronouns: he/him/his
+
 Hi! I'm Ben Benesh. I'm a senior application developer focusing mainly on APIs with PHP. 
 My professional home is at @dealerinspire .
 
