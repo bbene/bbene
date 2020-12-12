@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 
 Hi! I'm Ben Benesh. I'm a senior application developer focusing mainly on APIs with PHP. 
-My professional home is at @dealerinspire .
+My professional home is at [@dealerinspire](https://github.com/dealerinspire).
 
 When I'm not coding I am a volunteer Emergency Medical Responder for my local townships. 
 I am also an amateur radio operator with interest in emergency communications and modernizing ham radio technology. 
